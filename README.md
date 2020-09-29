@@ -8,4 +8,4 @@ Below are stock anaylysis cases
 
 2. I used reduceByKeyAndWindow function on Java pair Dstream with window duration of 10 mins and sliding window of 10 mins to calcualted total purchase/sale volume of stocks on every 10 mins.
 
-output of this applicatioin is captured in output.txt, every 10 mins window is used for aggregation and batch interval is 1 mins for creating JavaDsStream
+output of this applicatioin is captured in output.txt batch interval is 1 mins.
