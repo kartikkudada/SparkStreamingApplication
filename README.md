@@ -1,4 +1,5 @@
-# Spark Streaming Application
+# Spark Streaming Application for finding avg closing price of stocks and total purchase/sale volume in 10 mins 
+
 Spark Streaming Application integration with Kafka
 
 In this Spark Streaming Application , Stock data has been fetched in JSON format from kafka topic and average closing price for each stock is calcualted on Java pair Dsstream.
